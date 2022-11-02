@@ -1,7 +1,9 @@
 body {
     background-color: #faedcdff;
 }
-
+main, .header {
+    margin: 15px;
+}
 h1 {
     background-color: #d4a373ff;
     color: #42291a;
@@ -17,4 +19,8 @@ h1 {
 
 ul {
     list-style-type: none; 
+}
+
+img {
+    margin: 10px;
 }
