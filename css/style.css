@@ -1,0 +1,20 @@
+body {
+    background-color: #faedcdff;
+}
+
+h1 {
+    background-color: #d4a373ff;
+    color: #42291a;
+    margin-bottom: 0px;
+}
+
+.navbar {
+    background-color: #d4a373ff;
+    color: #281910;
+    border:#42291a 6px;
+    border-style: dotted none;
+}
+
+ul {
+    list-style-type: none; 
+}
