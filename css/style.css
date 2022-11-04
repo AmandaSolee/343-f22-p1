@@ -24,3 +24,7 @@ ul {
 img {
     margin: 10px;
 }
+
+figcaption {
+    text-indent: 10px;
+}
