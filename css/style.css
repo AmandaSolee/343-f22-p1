@@ -28,3 +28,11 @@ img {
 figcaption {
     text-indent: 10px;
 }
+
+.location-block {
+    background-color: #ccd5aeff;
+    border: solid #a1a88a 3px;
+    border-radius: 5px;
+    padding: 10px;
+    max-width: fit-content;
+}
