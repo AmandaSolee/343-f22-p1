@@ -1,14 +1,18 @@
 body {
     background-color: #faedcdff;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
+
 main, .header {
     margin: 15px;
 }
 h1 {
+    font-family: monospace;
     background-color: #d4a373ff;
     color: #42291a;
     margin-bottom: 0px;
 }
+
 
 .navbar {
     background-color: #d4a373ff;
