@@ -1,11 +1,15 @@
+/* Specify background color and font for the body */
 body {
     background-color: #faedcdff;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* Provide more space between text and edges of their containers */
 main, .header {
     margin: 15px;
 }
+
+/* Specify background color and font for the header */
 h1 {
     font-family: monospace;
     background-color: #d4a373ff;
@@ -13,7 +17,7 @@ h1 {
     margin-bottom: 0px;
 }
 
-
+/* Specific style for navbar */
 .navbar {
     background-color: #d4a373ff;
     color: #281910;
@@ -21,18 +25,23 @@ h1 {
     border-style: dotted none;
 }
 
+/* Remove normal style for unordered lists */
 ul {
     list-style-type: none; 
 }
 
+/* Create better margin for all images */
 img {
     margin: 10px;
 }
 
+
+/* Align caption with image itself not margin on image container */
 figcaption {
     text-indent: 10px;
 }
 
+/* Specific style for map of shop's location */
 .location-block {
     background-color: #ccd5aeff;
     border: solid #a1a88a 3px;

@@ -1,11 +1,14 @@
+/* Provide an indentation for items under specific heading */
 .contact {
     padding: 4px;
 }
 
+/* Make important text stand out */
 .bold {
     font-weight: bold;
 }
 
+/* Specific style for map of shop's location */
 .location-block {
     background-color: #ccd5aeff;
     border: solid #a1a88a 3px;
