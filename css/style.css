@@ -49,3 +49,7 @@ figcaption {
     padding: 10px;
     max-width: fit-content;
 }
+
+section {
+    padding: 20px;
+}
