@@ -71,17 +71,14 @@ a {
 }
 
 
-@media screen and (max-width: 1400px) {
-    img {
+@media screen and (max-width: 1000px) {
+
+    img{ 
+        display: flex;
+        flex-direction: row;
         width: 100%;
         height: 100%;
     }
 }
 
-@media screen and (min-width: 1400px) {
-    .location-block img {
-        height: 350px;
-        width: 450px;
-    }
-}
 
