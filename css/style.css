@@ -60,10 +60,15 @@ section {
 .inline {
     display: inline;
     padding: 5px;
+    
 }
 
 .navlink {
     color: #281910;
+}
+
+.navlink:hover {
+    color: #f6e1d4;
 }
 
 a { 
